@@ -1,9 +1,6 @@
 # GIRA(GUI for Important Registry artifacts)
 
 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 GIRA is a forensic tool. It will help in easy access of registry artifact information. This tool is still in development and please feel free to make modifications and suggest.
 
 
