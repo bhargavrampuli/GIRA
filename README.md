@@ -39,7 +39,7 @@ GIRA uses a number of open source projects to work properly:
 
 ### Installation
 
-Dillinger requires [python3](https://www.python.org/download/releases/3.0/) v3+ to run.
+GIRA requires [python3](https://www.python.org/download/releases/3.0/) v3+ to run.
 
 Install the dependencies.
 
